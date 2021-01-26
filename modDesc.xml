@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="51">
+	<author>loki_79</author>
+    <version>1.0.0.0</version>
+	<title>
+        <en>Extended Dashboard</en>
+        <de>Extended Dashboard</de>
+        <fr>Extended Dashboard</fr>
+    </title>
+    <description>
+<en><![CDATA[
+]]>
+</en>
+<de><![CDATA[
+]]>
+</de>
+<fr><![CDATA[
+]]>
+</fr>
+    </description>
+	
+	<multiplayer supported="false" />
+	<iconFilename>modIcon.dds</iconFilename>
+	<extraSourceFiles>
+		<sourceFile filename="ExtendedDashboard.lua" />
+	</extraSourceFiles>
+</modDesc>
